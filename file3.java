@@ -17,6 +17,10 @@ public class file3 {
             sum += f2.sum(vars[i], vars[i + 1]);
         }
 
+        for (int i = 0; i < 100; i++) {
+            // Do nothing just for the sake of it
+        }
+       
         return sum;
     }
 }
