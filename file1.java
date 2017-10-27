@@ -11,4 +11,8 @@ public class file1 {
         return var1 * var2;
     }
 
+    public int mod(int var1, int var2) {
+        return var1 % var2;
+    }
+
 }
